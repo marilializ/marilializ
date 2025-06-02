@@ -1,5 +1,5 @@
 # 💫 About Me:
-📓 first-year student at CESAR school<br>🎨 passionate about tech, art, and storytelling<br>🧸 always down to collaborate, learn, and build cool things <br><br>💻 currently learning:  <br>→ JavaScript · HTML · CSS  <br><br>💌 reach me out:<br>→ lizmarilia07@gmail.com
+📓 first-year student at CESAR school<br>🎨 passionate about tech, art, and storytelling<br>🧸 always down to collaborate, learn, and build cool things <br><br>💻 currently learning:  <br>→ JavaScript · HTML · CSS  <br><br>💌 reach me out:<br>→ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lizmarilia07@gmail.com) 
 
 
 ## 🔗 Socials:
