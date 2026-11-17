@@ -1,5 +1,5 @@
 # ⭐ heyy!
-📓 first-year student at CESAR school<br>🎨 passionate about tech, art, and storytelling<br>🧸 always down to collaborate, learn, and build cool things  <br>💬 ask me about my four favorites on letterbox
+📓 second-year student at CESAR school<br>🎨 passionate about tech, art, and storytelling<br>🧸 always down to collaborate, learn, and build cool things  <br>💬 ask me about my four favorites on letterbox
 <br><br>💻 currently learning:  <br>
 ![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
